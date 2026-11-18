@@ -22,12 +22,11 @@ First time exploring Git and github with terminal of vs code for learning purpos
 - Using the terminal is very efficient, rather than keyboard & mouse.
 
 ### Different terms
-- Command Line
-- Terminal
-- Console
-- Shell
-- Bash
-- Z-shell (zsh)
+- Command Line :  The general idea of controlling a computer by typing commands.
+- Terminal : The window where you type. It is just the display and input.
+- Console : Same as terminal. 
+- Shell : The program inside that window that reads your command and runs it.
+- Bash, Z-shell (zsh) : This are some popular shells used in day todays life.
 
 ### Basic commands
 | Command | Meaning |
