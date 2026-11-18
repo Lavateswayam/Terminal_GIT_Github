@@ -76,3 +76,15 @@ ls -la
 - `man mkdir` gives info about the `mkdir` command.
 - (extra) Press `q` to exit the manual.
 
+## Touch Command
+
+- Syntax: `touch <filename>`
+- Used to make files in a directory.
+
+## Deleting Files & Folders
+
+| Command | What it removes |
+|---|---|
+| `rm` | removes files |
+| `rmdir` | removes an **empty** folder |
+| `rm -rf` | removes **any** folder |
