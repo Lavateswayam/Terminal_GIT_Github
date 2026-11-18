@@ -76,10 +76,3 @@ ls -la
 - `man mkdir` gives info about the `mkdir` command.
 - (extra) Press `q` to exit the manual.
 
----
-
-## Doubts
--
-
-## Next
-- Git commands: `init`, `add`, `commit`
